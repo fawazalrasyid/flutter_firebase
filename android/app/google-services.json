@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1066155623600",
+    "project_id": "sg-motion",
+    "storage_bucket": "sg-motion.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1066155623600:android:023af81c57499ff207e775",
+        "android_client_info": {
+          "package_name": "com.example.flutter_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1066155623600-ohb3fq0rrpfr6fmje1j4hal1htotehgp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXa1A4Y0k6vW_9Z6T1u3v-0nsIfu4kNFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1066155623600-ohb3fq0rrpfr6fmje1j4hal1htotehgp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
